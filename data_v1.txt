@@ -4,6 +4,6 @@
 		"update": false,
 		"version": "1234",
 		"url": "https://urlapk.com",
-		"kw": "dangdut hits"
+		"kw": "tamil hindi telugu bollywood hit songs"
 
 }
