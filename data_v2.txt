@@ -4,6 +4,19 @@
 		"update": false,
 		"version": "1234",
 		"url": "https://urlapk.com",
-		"kw": "dangdut koplo, dangdut remix"
+		"kw": "dangdut koplo, dangdut remix",
+		"inads": true,
+		"inAdsData": [
+		      {
+			 "url": "https://play.google.com/store/apps/details?id=com.tencent.ig",
+			 "description": "The official PLAYERUNKNOWN'S BATTLEGROUNDS designed exclusively for mobile.",
+			 "image": "https://github.com/tukangpilem/m4m3_multi/raw/master/thumbnail/androdun.jpg"
+		      },
+		      {
+			 "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth",
+			 "description": "Free Fire is the ultimate survival shooter game available on mobile. Each 10-minute game places you on a remote island where you are pit against 49 other players, all seeking survival.",
+			 "image": "https://github.com/tukangpilem/m4m3_multi/raw/master/thumbnail/aof3.jpg"
+		      }
+		   ]
 
 }
